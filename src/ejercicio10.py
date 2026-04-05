@@ -1,6 +1,4 @@
 def puntaje_ronda(puntajes_jueces):
-    #recibo por ejemplo {'judge_1': 8, 'judge_2': 7, 'judge_3': 9}
-    # y deveulve 24
     total = 0
     for puntaje in puntajes_jueces.values():
         total += puntaje 
