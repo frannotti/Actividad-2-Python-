@@ -1,18 +1,23 @@
- # Actividad 2 - Python 2026 
+ # Actividad 2 - Python 2026
 
   ## Requisitos
   - Python 3.10 o superior
-  - JupyterLab, Jupyter Notebook
 
-  ## Instalación
-  1. Clonar el repositorio
-  2. Instalar Jupyter si no lo tenés: pip install jupyterlab
+  ## Instalación y ejecución
 
-  ## Ejecución
-  1. Abrir una terminal en la carpeta del proyecto
-  2. Ejecutar: jupyter lab
-  3. Ir a la carpeta notebooks/ y abrir el ejercicio
+  1. Clonar el repositorio (descarga el proyecto a tu computadora):
+     ```bash
+     git clone https://github.com/frannotti/Actividad-2-Python-.git
 
-  ## Estructura
-  - notebooks/ - Ejercicios resueltos
-  - src/ - Funciones de los ejercicios 9 y 10
+  2. Entrar a la carpeta del proyecto:
+  cd Actividad-2-Python-
+  3. Instalar Jupyter Notebook (necesario para abrir el ejercicio):
+  pip install notebook
+  4. Abrir Jupyter Notebook (se abre en el navegador):
+  jupyter notebook
+  5. En el navegador, ir a la carpeta notebooks/ y abrir ejercicio10.ipynb.
+
+  Estructura
+
+  - notebooks/ejercicio10.ipynb - Notebook con el ejercicio resuelto
+  - src/ejercicio10.py - Módulo con las funciones utilizadas
