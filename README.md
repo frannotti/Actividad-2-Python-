@@ -1,4 +1,4 @@
- # Actividad 2 - Python 2026
+ # Actividad 2 - Python 2026 
 
   ## Requisitos
   - Python 3.10 o superior
